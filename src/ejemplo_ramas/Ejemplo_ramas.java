@@ -19,6 +19,11 @@ public class Ejemplo_ramas {
         System.out.println("Versión 1 ");
         System.out.println("Versión 2");
         System.out.println("Versión 3");
+        imprime_mensaje();
+    }
+    
+    static void imprime_mensaje(){
+        System.out.println("versión 3.1 desarrollador");
     }
     
 }
